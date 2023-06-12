@@ -1,5 +1,5 @@
-# Home_Sales 
-# Module 22 Challenge
+# Home_Sales Module 22 Challenge
+ 
 # Instructions 
 
 Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
